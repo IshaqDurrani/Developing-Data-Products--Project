@@ -11,3 +11,5 @@ Suppose, I work for Motor Trend, a magazine about the automobile industry. Looki
 
 # Application Link
 http://127.0.0.1:4583
+
+The link will work only when the application has run in R.
